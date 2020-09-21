@@ -5,7 +5,7 @@ import java.nio.file.FileAlreadyExistsException;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class sprint2 {
+public class Sprint2 {
     public static void main(String[] args) {
         File relativeFile = new File("monthlyPay.csv");
         FileWriter fw = null;

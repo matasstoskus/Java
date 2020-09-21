@@ -3,7 +3,7 @@ package gg.matas.app0;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ndOfAllSorts {
+public class NdOfAllSorts {
     public static void main(String[] args) {
         ///// P2 - 32
         System.out.println(Integer.MAX_VALUE);
