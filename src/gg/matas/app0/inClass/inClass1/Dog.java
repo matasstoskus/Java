@@ -1,4 +1,4 @@
-package gg.matas.app0.inClass1;
+package gg.matas.app0.inClass.inClass1;
 
 class Dog {
     public String name;

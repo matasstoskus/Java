@@ -1,4 +1,4 @@
-package gg.matas.app0.inClass0;
+package gg.matas.app0.inClass.inClass0;
 
 public class InClass0 {
     public static void main(String[] args) {

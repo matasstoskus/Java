@@ -1,4 +1,4 @@
-package gg.matas.app0;
+package gg.matas.app0.homeWork.P2ND;
 
 import java.util.Arrays;
 import java.util.Scanner;
