@@ -1,4 +1,4 @@
-package gg.matas.app0.homeWork.P8ND;
+package gg.matas.app0.homeWork.P8;
 
 public class Calculus {
     public static void main(String[] args) {

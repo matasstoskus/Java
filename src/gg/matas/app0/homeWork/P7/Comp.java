@@ -1,4 +1,4 @@
-package gg.matas.app0.homeWork.P7ND;
+package gg.matas.app0.homeWork.P7;
 
 public class Comp {
     public static void main(String[] args) {
