@@ -1,9 +1,6 @@
-package gg.matas.app0;
+package gg.matas.app0.sprint.sprint2;
 
 import java.io.*;
-import java.nio.file.FileAlreadyExistsException;
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class Sprint2 {
     public static void main(String[] args) {

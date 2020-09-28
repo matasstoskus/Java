@@ -1,4 +1,4 @@
-package gg.matas.app0.inClass.inClass2;
+package gg.matas.app0.homeWork.P9.inClass2;
 
 public class Exe {
     public static void main(String[] args) {
